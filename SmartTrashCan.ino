@@ -6,8 +6,8 @@
 #define FRONT_TRIG -1
 #define FRONT_ECHO -1
 
-#define INNER_TRIG 5
-#define INNER_ECHO 16
+#define INNER_TRIG 12
+#define INNER_ECHO 14
 
 // Initializing LED and Servo ids
 #define NEOPIXEL_PIN 25
